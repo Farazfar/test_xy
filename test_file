@@ -1,0 +1,3 @@
+echo "there is a axway"
+apt update
+apt service git status
